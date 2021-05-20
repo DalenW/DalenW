@@ -1,5 +1,5 @@
 I’m @DalenW
-- I do a lot of Ruby on Rails WebDeb right now. 
+- I do a lot of Ruby on Rails WebDev right now. 
 - I'm currently learning Rust
 - You can reach me via email at dalen.ward@m6securities.com. I sometimes do paid dev work. 
 
